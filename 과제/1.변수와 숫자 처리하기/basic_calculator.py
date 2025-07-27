@@ -1,0 +1,11 @@
+a=int(input("첫번째 숫자를 입력하세요:"))
+b=int(input("두번째 숫자를 입력하세요:"))
+
+x = (a+b)
+z = (a-b)
+y = (a*b)
+w = (a/b)
+print(a,"+",b,"=",x)
+print(a,"-",b,"=",z)
+print(a,"*",b,"=",y)
+print(a,"/",b,"=",w)
